@@ -1,0 +1,1 @@
+# Travel-mode-recognition-model-based-on-multi-scale-phase-aggregation-trajectory-representation
