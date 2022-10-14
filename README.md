@@ -21,7 +21,7 @@
 6. 'My_Tools.py'工具性函数
 7. 'My_Model_Weightdict.mdl'最佳模型参数
 ### 引用声明
-* 数据预处理过程中的部分代码改编自[这里](https://github.com/sinadabiri/Deep-Semi-Supervised-GPS-Transport-Mode)
+* 数据预处理过程中的部分代码改编自[这里](https://github.com/sinadabiri/Transport-Mode-GPS-CNN.git)
 * 模型训练与测试中PATM算法来自[这里](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)
 * 模型训练与测试中ndf.py引用自论文
 **KONTSCHIEDER P, FITERAU M, CRIMINISI A, et al. Deep neural decision forests[C]//Proceedings of the IEEE international conference on computer vision. 2015: 1467-1475.**
